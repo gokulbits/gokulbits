@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <sub>📫 reach me — <a href="mailto:potatoobae@gmail.com">potatoobae@gmail.com</a></sub>
+  <sub>📫 reach me — <a href="mailto:gokulgk55@proton.me">gokulgk55@proton.me</a></sub>
 </p>
