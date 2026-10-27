@@ -2,14 +2,14 @@
 
 <p align="center">
   <b>Gokul G Krishna</b><br>
-  <sub>building small, self-contained things — mostly Kotlin, Rust and JavaScript</sub>
+  <sub>building small, self-contained things - mostly Kotlin, Rust and JavaScript</sub>
 </p>
 
 ---
 
 ### What I'm up to
 
-- 🎴 Writing an offline LAN multiplayer card game for Android — Kotlin, Compose, Ktor, no backend
+- 🎴 Writing an offline LAN multiplayer card game for Android - Kotlin, Compose, Ktor, no backend
 - 🦀 Poking at Rust for systems-shaped problems
 - 🗄️ Contributing to open source around database tooling and self-hosted media
 
@@ -31,5 +31,5 @@
 </p>
 
 <p align="center">
-  <sub>📫 reach me — <a href="mailto:gokulgk55@proton.me">gokulgk55@proton.me</a></sub>
+  <sub>📫 reach me at <a href="mailto:gokulgk55@proton.me">gokulgk55@proton.me</a></sub>
 </p>
