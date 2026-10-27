@@ -18,7 +18,7 @@
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/gokulbits/uno-clash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulbits&repo=uno-clash&hide_border=true&theme=github_dark" alt="uno-clash"></a>
+<a href="https://github.com/gokulbits/uno-clash"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulbits&repo=uno-clash&hide_border=true&theme=github_dark&v=2" alt="uno-clash"></a>
 <p>
 <b>Color Clash</b> - an offline UNO-style card game for 2-6 Android phones. One phone hosts, the rest join over the same Wi-Fi or its hotspot. No accounts, no ads, no server anywhere. Pure-Kotlin rules engine shared by host and client, QR or room-code joining, bots, reconnection, turn timer.
 </p>
@@ -29,7 +29,7 @@
 </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/gokulbits/riptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulbits&repo=riptor&hide_border=true&theme=github_dark" alt="riptor"></a>
+<a href="https://github.com/gokulbits/riptor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=gokulbits&repo=riptor&hide_border=true&theme=github_dark&v=2" alt="riptor"></a>
 <p>
 <b>Riptor</b> - a fast, security-focused BitTorrent client for Windows and Linux. Built on librqbit with a Tauri shell. App-only VPN with a kill switch, sandboxed search plugins, fake-release warnings, encrypted backups. Early development.
 </p>
