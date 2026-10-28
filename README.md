@@ -40,6 +40,21 @@
 </p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.superiorfalcon.com"><img src="https://www.superiorfalcon.com/og/home.png" alt="Superior Falcon"></a>
+<p>
+<b>Superior Falcon</b> - a live site for an ADDC-approved HVAC and MEP contractor in Abu Dhabi. Static Astro, zero JS by default: a canvas airflow hero, a scroll-driven thermometer, hand-drawn trade schematics per discipline, light and dark themes, and a work-order form running through a Netlify Function behind Turnstile.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white" alt="Astro">
+<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
+</p>
+</td>
+<td width="50%" valign="top"></td>
+</tr>
 </table>
 
 ### Tools I reach for
