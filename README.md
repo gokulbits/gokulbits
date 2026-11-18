@@ -60,7 +60,18 @@ A live site for an ADDC-approved HVAC and MEP contractor in Abu Dhabi. Static As
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify">
 </p>
 </td>
-<td width="50%" valign="top"></td>
+<td width="50%" valign="top">
+<h4>🎓 <a href="https://github.com/gokulbits/cendo">Cendo</a></h4>
+<p>
+Attendance, exam marks, fees and reports for coaching and tuition centers, with one backend serving many centers. Teachers run a class from an Android app, owners manage the center and read reports in a web console, parents see only their own children. Marks a whole class with no signal and uploads when it returns, holds a fresh absence for two minutes so a mis-tap never reaches a parent, and scopes every query and foreign key to one center. Early development.
+</p>
+<p>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+</p>
+</td>
 </tr>
 </table>
 
